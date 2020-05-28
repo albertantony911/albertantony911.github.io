@@ -4,7 +4,7 @@ body, html {
   height: 100%;
 
   background-image: url("../images/BG.jpg");
-  height: 100%;
+  height: 100vh;
 
   background-position: cover;
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body, html {
 @media screen and (max-width: 767px) {
     
 body, html {
-  height: 100%;
+  height: 100vh;
 
   background-image: url("../images/BGS.jpg");
   height: 100%;
