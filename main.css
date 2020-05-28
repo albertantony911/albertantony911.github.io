@@ -1,4 +1,4 @@
-@media (max-width: 300px) {
+
     html {
 
         background: url("../images/BGS.jpg") no-repeat center center fixed;
@@ -7,15 +7,3 @@
         -o-background-size: cover;
         background-size: cover;
     }
-}
-
-@media (min-width: 301px) {
-    html {
-
-        background: url("../images/BG.jpg") no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-    }
-}
