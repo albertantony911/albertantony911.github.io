@@ -1,7 +1,7 @@
 @media (max-width: 300px) {
-    body {
+    html {
 
-        background: url(https://albertantony911.github.io/images/bgs.jpg) no-repeat center center fixed;
+        background: url("images/BGS.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -10,9 +10,9 @@
 }
 
 @media (min-width: 301px) {
-    body {
+    html {
 
-        background: url(https://albertantony911.github.io/images/bg.jpg) no-repeat center center fixed;
+        background: url("images/BG.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
