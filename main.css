@@ -1,5 +1,8 @@
 html {
 
         background: url("../images/BGS.jpg") no-repeat center center fixed;
-        background-size: 100%vh;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
